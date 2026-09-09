@@ -1,5 +1,5 @@
 --extra-index-url https://pypi.aikido.io/239ede3123b889d6cdc45
-mcp[cli]==1.9.4
+mcp[cli]==1.27.2
 pydantic>=2.0.0
 cryptography==42.0.0.post1+tuxcare
 psutil>=5.9.0
